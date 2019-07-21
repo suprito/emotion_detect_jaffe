@@ -8,3 +8,8 @@ The dimension of the images are 256 * 256
 ![image](https://user-images.githubusercontent.com/53126149/61595633-25ce1980-ac17-11e9-91bf-28859ad30614.png)
 
 # The CNN architecture
+
+
+
+![image](https://user-images.githubusercontent.com/53126149/61595668-b3aa0480-ac17-11e9-9f15-663d7040ec3f.png)
+
