@@ -18,4 +18,9 @@ The dimension of the images are 256 * 256
 # Accuracy Report
 
 
+![image](https://user-images.githubusercontent.com/53126149/61595707-3e8aff00-ac18-11e9-85c5-3ace3f9162f1.png)
+
+
+
+
 
