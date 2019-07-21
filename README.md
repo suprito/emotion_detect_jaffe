@@ -29,3 +29,6 @@ The dimension of the images are 256 * 256
 
 
 # Output of the model from webcam
+
+![image](https://user-images.githubusercontent.com/53126149/61595773-0b953b00-ac19-11e9-8a7f-32f6d9656f1c.png)
+
