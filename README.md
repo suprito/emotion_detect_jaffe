@@ -1,5 +1,7 @@
 # emotion_detect_jaffe
 
+Emotion detection from webcam using a convolutional neural network.
+
 # JAFFE dataset
 
 The JAFFE dataset contains 213 grayscale facial expression images of 7 facial expressions -disgust, Fear, Joy, surprise, sadness, anger, and neutral, posed by 10 Japanese women.
@@ -26,3 +28,4 @@ The dimension of the images are 256 * 256
 ![image](https://user-images.githubusercontent.com/53126149/61595737-afcab200-ac18-11e9-9306-0cb87b2bb6f6.png)
 
 
+# Output of the model from webcam
