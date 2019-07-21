@@ -28,6 +28,13 @@ The dimension of the images are 256 * 256
 ![image](https://user-images.githubusercontent.com/53126149/61595737-afcab200-ac18-11e9-9306-0cb87b2bb6f6.png)
 
 
+
+# Confusion matrix
+
+![image](https://user-images.githubusercontent.com/53126149/61596452-9b3ee780-ac21-11e9-9335-82f72a0f7757.png)
+
+
+
 # Output of the model from webcam
 
 ![image](https://user-images.githubusercontent.com/53126149/61595773-0b953b00-ac19-11e9-8a7f-32f6d9656f1c.png)
